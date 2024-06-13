@@ -1,6 +1,6 @@
-# _--_projeto_--_uva_niagara_--_
+# _--_projeto_--_agricultura_--_
 
-- ### Olá, sou o Professor Rafael Assis Santos
+- ### Olá, sou a aluna Isabella Parra Hass
 - ### Embaixadora do NRE - Luzia Siscati
 - ### Projeto Agrinho 2024
 - ### Colégio Estadual Rio Branco
