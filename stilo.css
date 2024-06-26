@@ -5,7 +5,7 @@
 
 :root {
   --verde-fundo: #deece7;
-  --branco-principal:  #deece7;
+  --branco-principal:  #020303;
   --fonte-principal: "Lustria";
   --verde-principal: #5fb13b;
   --azul-principal: #0169b4;
@@ -27,7 +27,7 @@ a:link {
   color: var(--link);
 }
 a.cabecalho__botao:link {
-  color: #fff;
+  color: #070707;
 }
 a:visited {
   color: var(--branco-principal);
@@ -48,7 +48,7 @@ a:active {
 }
 
 .cabecalho {
-  background-image: url("4.png");
+  background-image: url("5.png");
 }
 .img {
   width: 100%;
